@@ -137,3 +137,4 @@ com.android.contacts: Contacts and dialer
 com.android.providers.contacts: Contact Storage
 com.android.providers.telephony: Phone and Messaging Storage
 com.android.fileexplorer: Files (Android default)
+com.android.calendar: Calendar (Android default)
