@@ -131,3 +131,8 @@ com.xiaomi.vipaccount: Xiaomi VIP Account
 com.xiaomi.xmsf: Xiaomi Service Framework
 com.xiaomi.xmsfkeeper: Xiaomi Service Framework
 com.android.mms: Messaging
+com.android.phone: Phone
+com.android.email: Mail
+com.android.contacts: Contacts and dialer
+com.android.providers.contacts: Contact Storage
+com.android.providers.telephony: Phone and Messaging Storage
